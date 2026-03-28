@@ -26,3 +26,29 @@ The Pulik site is live. It carries my name, my voice, my dogs, my life. I wrote 
 Daily Affirmation
 I am an artist, a caregiver, a woman in motion. I hold tenderness and ambition in the same hands — the same hands that separate cords, that embroider silence into fabric, that apply for jobs and build websites and hold my mother's hand. None of this is contradiction. All of this is me. I am a renaissance woman and today I proved it.
 I am an artist, a caregiver, a woman in motion. I hold tenderness and ambition in the same hands — the same hands that separate cords, that embroider silence into fabric, that apply for jobs and build websites and hold my mother's hand. None of this is contradiction. All of this is me. I am a renaissance woman and today I proved it.
+
+Tonight I am grateful for the hackathon because it revealed how much a group experience can teach beyond the surface of the project itself. Sometimes the most important lessons do not come from what gets completed, but from what becomes visible when different working styles, assumptions, and energies meet in one room. There is value in seeing how ideas move, how roles form, and how quickly momentum can shift depending on who is guiding the process and how the group chooses to listen.
+I am also grateful that the experience sharpened something in me. It reminded me that vision, timing, and instinct matter, even when they are not immediately recognized. Not every room knows how to receive initiative, and not every process honors clarity when it first appears. Still, I left with a deeper trust in what I saw, what I contributed, and what I understood beneath the surface. That is its own kind of confirmation.
+
+Nightly Affirmation
+I trust my instincts, even when they move ahead of the room. What I see has value, and I do not need immediate recognition to know my perspective matters.
+
+Gratitude Journal
+
+March 26, 2026
+
+Today I am grateful that I kept going. Even when the day before leaves questions or unfinished feelings behind, there is power in returning to the work and continuing anyway. I am learning that progress is not always clean or simple. Sometimes it asks me to keep moving while I am still processing what something meant.
+I am also grateful that I am building more patience with myself as I learn. New technical ideas can feel unfamiliar at first, but I can feel that my mind is stretching and adjusting. What once felt distant is starting to feel more reachable. That matters to me, because it shows that growth is happening even when it is not loud.
+
+Daily Affirmation
+I honor my progress and trust my pace. Every day I am becoming more capable, more grounded, and more prepared for what is ahead.
+
+Gratitude Journal
+
+March 27, 2026 
+
+Today I am grateful for the growth I can feel taking shape in real time. My understanding of AI, code, and technical structure is becoming stronger, and I can feel the difference in how I think. What once felt abstract is beginning to feel more practical. I am starting to see more clearly how ideas can become something functional, and that shift feels important.
+I am also grateful for the confidence that grows through repetition and effort. I am still early in the process, but I am no longer standing at the edge of it. I am engaging, learning, asking better questions, and building a stronger foundation. That means a great deal to me, because it shows that this change is real.
+
+Daily Affirmation
+I am allowed to be new and still be powerful. My growth is real, my effort matters, and I am becoming more fluent with every step I ta
