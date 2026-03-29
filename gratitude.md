@@ -52,7 +52,7 @@ I am also grateful for the confidence that grows through repetition and effort. 
 
 Gratitude Journal
 
-March 27, 2026 
+March 28, 2026 
 
 Yesterday was a reminder that real growth does not always look polished in the moment. Sometimes it looks like confusion, repetition, trial and error, and having to slow down enough to understand what is actually happening. Even so, I am grateful that I stayed with the process. I did not let frustration stop me. I kept moving, kept asking questions, and kept trying to understand the tools in front of me instead of turning away from something unfamiliar.
 I am also grateful that I am in a season of learning, even when that learning stretches me. Every new skill asks for patience, humility, and persistence. Yesterday showed me that progress is not only in the final result, but in the willingness to return, try again, and keep building understanding step by step. What feels difficult today may become second nature tomorrow, and that thought gives me confidence.
