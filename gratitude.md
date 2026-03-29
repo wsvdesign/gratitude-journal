@@ -68,9 +68,13 @@ Gratitude Journal
 March 29, 2026
 
 Today was about discipline in thinking. I spent time working through problem statements, scoping, and value proposition work, and it reminded me that a good idea is not enough on its own. The real work is in defining the problem clearly, identifying who it is for, and cutting away everything that makes the solution too broad to build. That process was more challenging than it first appeared, because every time I thought I had the solution, I had to narrow it again.
+
 I focused on shaping RouteWell, the rural transportation concept, into something more realistic and grounded. What became clear is that the strongest solutions are not always the biggest or most ambitious. Sometimes the most useful solution is the one that identifies the real barrier and removes friction in a direct way. In this case, the barrier was not just transportation itself, but access to clear and trusted information about transportation options in rural communities.
+
 The peer feedback today was also meaningful. It pushed me to think beyond access and into trust, safety, and usability. That made the concept stronger and reminded me that collaboration can expose blind spots I would not always catch on my own. I also appreciated working with people who approached the process thoughtfully and gave critiques that were grounded rather than performative.
+
 What I am taking from today is that strategy matters as much as creativity. A build project is not only about making something; it is about making the right thing at the right scale. I still have some concern that my scope may be narrow, but I understand now that narrow can be a strength if it leads to clarity, feasibility, and a better first version.
+
 Daily affirmation:
 I am learning to build with focus, not just ambition.
 Daily Affirmation
