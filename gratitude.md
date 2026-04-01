@@ -79,3 +79,36 @@ Daily affirmation:
 I am learning to build with focus, not just ambition.
 Daily Affirmation
 I am allowed to be new and still be powerful. My growth is real, my effort matters, and I am becoming more fluent with every step I ta
+
+# Gratitude Journal
+
+## 03/30/2026
+
+Today I started to understand how frontend and backend systems actually connect instead of seeing them as separate ideas. What clicked for me was realizing that the frontend is not just design — it’s communication with the backend through APIs. That shift made everything feel more structured and less abstract.
+
+I also felt some hesitation around how much I still don’t know, especially when thinking about building full systems. But instead of shutting down, I stayed with the discomfort and kept moving forward. That persistence is something I’m starting to recognize as part of my process.
+
+## Daily Affirmation
+I am building real technical understanding step by step, and I trust my ability to figure things out.
+
+# Gratitude Journal
+
+## 03/31/2026
+
+Today I am grateful for a class session that pushed me to think beyond surface-level definitions and start seeing how technology is layered. We spent time discussing the difference between front-end and back-end systems, and what helped me most was grounding the conversation in examples that people actually use every day. I brought up Google Maps, and other cohort members mentioned Discord and Gmail. That made the discussion feel much more practical because it moved the idea out of theory and into real products that I already interact with.
+
+I am grateful for how much I learn when I hear how other people interpret the same concept. Sometimes another person’s example opens a door that a technical definition does not. Hearing the different platforms discussed side by side helped me understand that front-end is the part a user experiences directly, while back-end is the part doing the hidden work underneath. Even though I am still learning, I can feel that these distinctions are starting to become more concrete in my mind. That matters to me because I do not just want to memorize terms. I want to actually understand how systems function.
+
+I am especially grateful for the way curiosity showed up for me today. Discord stayed with me after the discussion. I use Discord, and I even have my own Midjourney server, but I realized I still do not fully understand the platform itself. I know how to use it, but using something and understanding how it is structured are two different things. That realization was important. It reminded me that there is another level of learning available to me if I keep asking questions and keep looking deeper.
+
+I am also grateful that I did not let uncertainty stop me. There are moments when technical language can still feel unfamiliar or dense, and I can feel the gap between where I am and where I want to be. But today showed me that the gap is not a wall. It is a path. Every conversation, every question, and every attempt to connect the concept to something real helps me move forward. I am beginning to trust that understanding grows through repetition, engagement, and patience.
+
+Another thing I appreciate is that today’s learning connects directly to how I think about projects. It is one thing to hear about front-end and back-end in theory, but it is another thing to realize that this is the structure behind the apps, websites, and tools I want to build. That gave the lesson more meaning for me. I am not learning this in isolation. I am learning it because it will help me think more clearly, ask better questions, and make stronger choices when I work on future projects.
+
+Today also reminded me that I do not have to fully understand everything all at once in order to be making real progress. There is value in staying engaged even when the picture is incomplete. I am grateful that I kept listening, reflecting, and making connections instead of shutting down when something was not immediately clear. That persistence is part of my growth, and I want to acknowledge it.
+
+Most of all, I am grateful that I am still willing to learn in a serious way. I am stretching into new territory, and while that can be uncomfortable, it is also proof that I am still expanding. Today was not just about technology. It was also about mindset. It was about being willing to remain open, to stay curious, and to build understanding layer by layer. That is something worth being grateful for.
+
+## Daily Affirmation
+
+I am fully capable of learning complex ideas, making meaningful connections, and building real understanding through curiosity, discipline, and steady effort.
