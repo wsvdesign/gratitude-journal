@@ -111,4 +111,38 @@ Most of all, I am grateful that I am still willing to learn in a serious way. I 
 
 ## Daily Affirmation
 
+# Gratitude Journal
+
+April 1, 2026
+
+Today reminded me that building something is never just about the idea. It is also about structure, patience, and being willing to sit inside confusion long enough to find the next step. I spent time working through the logic of the project, thinking more carefully about what the app is actually supposed to do and what problem it is really solving. That kind of clarity did not come instantly. It came through slowing down and being more honest about what was working and what was still unclear.
+I also kept seeing how important scope is. A project can sound strong in theory, but if it is too large, it becomes difficult to build well. Narrowing the concept did not weaken it. It actually made the idea more credible and more useful. That was an important shift for me because I am used to thinking broadly, but this process is teaching me that precision is part of creativity too.
+
+What stayed with me today is that building is as much mental discipline as it is technical skill. I am learning to stop fighting the process and instead move through it step by step. Even when I do not fully understand every part yet, I am still developing the ability to stay with the problem.
+
+Daily Affirmation
+I trust myself to build with focus, patience, and clarity
+
+# Gratitude Journal
+
+April 2, 2026
+
+Today felt more technical and more real. I continued working on the app and had to deal with the fact that progress does not always look smooth from the outside. There were moments when things seemed connected, but the result still was not right. That forced me to look more closely at the layout, the flow of information, and how the user would actually experience the site. I am beginning to understand that design is not decoration. It is structure, meaning, and usability.
+I also spent more time with tools that still feel unfamiliar to me, especially in the terminal and around the logic of how the site is working behind the scenes. That has been uncomfortable, but useful. The discomfort is showing me where I need to grow. I do not know everything yet, but I am not frozen by that in the same way. I am learning to keep moving even when I do not have total mastery.
+The most important thing I felt today is that I am no longer only imagining myself as someone with ideas. I am becoming someone who can stay in the build, work through obstacles, and keep shaping something until it functions. That matters.
+
+Daily Affirmation
+I am capable of learning what I do not yet know.
+
+# Gratitude Journal
+
+April 3, 2026
+
+Today felt intense, but meaningful. I came very close to losing the build, and that shook me because it showed me how fragile the process can be when I am still learning so many of the technical pieces. At the same time, I did not stop. I kept working, troubleshooting, and trying different ways forward until I was able to recover the site. That experience taught me something important about myself: I can hold pressure and still keep going.
+I also saw very clearly that when the build becomes chaotic, the answer is not panic. The answer is to isolate one problem at a time. Once I stopped looking at everything all at once, I could begin to see what actually needed attention. That was a real lesson in problem-solving. It made me feel more grounded, even inside the stress.
+What I am proud of today is not perfection. It is resilience. I stayed with the work, used the tools available to me, and got the project back into a usable state. That may not look dramatic from the outside, but it is real growth. I am learning that progress is not just about 
+what I build. It is also about how I respond when things break.
+
+Daily Affirmation
+I know how to recover, rebuild, and move forward.
 I am fully capable of learning complex ideas, making meaningful connections, and building real understanding through curiosity, discipline, and steady effort.
