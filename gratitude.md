@@ -82,7 +82,7 @@ I am allowed to be new and still be powerful. My growth is real, my effort matte
 
 # Gratitude Journal
 
-## 03/30/2026
+## March 30, 2026
 
 Today I started to understand how frontend and backend systems actually connect instead of seeing them as separate ideas. What clicked for me was realizing that the frontend is not just design — it’s communication with the backend through APIs. That shift made everything feel more structured and less abstract.
 
