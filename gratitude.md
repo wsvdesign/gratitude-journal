@@ -33,9 +33,9 @@ I am also grateful that the experience sharpened something in me. It reminded me
 Nightly Affirmation
 I trust my instincts, even when they move ahead of the room. What I see has value, and I do not need immediate recognition to know my perspective matters.
 
-Gratitude Journal
+# Gratitude Journal
 
-March 26, 2026
+## March 26, 2026
 
 Today I am grateful that I kept going. Even when the day before leaves questions or unfinished feelings behind, there is power in returning to the work and continuing anyway. I am learning that progress is not always clean or simple. Sometimes it asks me to keep moving while I am still processing what something meant.
 I am also grateful that I am building more patience with myself as I learn. New technical ideas can feel unfamiliar at first, but I can feel that my mind is stretching and adjusting. What once felt distant is starting to feel more reachable. That matters to me, because it shows that growth is happening even when it is not loud.
@@ -43,16 +43,16 @@ I am also grateful that I am building more patience with myself as I learn. New 
 Daily Affirmation
 I honor my progress and trust my pace. Every day I am becoming more capable, more grounded, and more prepared for what is ahead.
 
-Gratitude Journal
+# Gratitude Journal
 
-March 27, 2026 
+## March 27, 2026
 
 Today I am grateful for the growth I can feel taking shape in real time. My understanding of AI, code, and technical structure is becoming stronger, and I can feel the difference in how I think. What once felt abstract is beginning to feel more practical. I am starting to see more clearly how ideas can become something functional, and that shift feels important.
 I am also grateful for the confidence that grows through repetition and effort. I am still early in the process, but I am no longer standing at the edge of it. I am engaging, learning, asking better questions, and building a stronger foundation. That means a great deal to me, because it shows that this change is real.
 
-Gratitude Journal
+# Gratitude Journal
 
-March 28, 2026 
+## March 28, 2026
 
 Yesterday was a reminder that real growth does not always look polished in the moment. Sometimes it looks like confusion, repetition, trial and error, and having to slow down enough to understand what is actually happening. Even so, I am grateful that I stayed with the process. I did not let frustration stop me. I kept moving, kept asking questions, and kept trying to understand the tools in front of me instead of turning away from something unfamiliar.
 I am also grateful that I am in a season of learning, even when that learning stretches me. Every new skill asks for patience, humility, and persistence. Yesterday showed me that progress is not only in the final result, but in the willingness to return, try again, and keep building understanding step by step. What feels difficult today may become second nature tomorrow, and that thought gives me confidence.
@@ -63,9 +63,9 @@ Here is a slightly more powerful affirmation too, in case you want it:
 Daily Affirmation:
 I am not behind. I am building strength, skill, and confidence with every step I take.
 
-Gratitude Journal
+# Gratitude Journal
 
-March 29, 2026
+## March 29, 2026
 
 Today was about discipline in thinking. I spent time working through problem statements, scoping, and value proposition work, and it reminded me that a good idea is not enough on its own. The real work is in defining the problem clearly, identifying who it is for, and cutting away everything that makes the solution too broad to build. That process was more challenging than it first appeared, because every time I thought I had the solution, I had to narrow it again.
 
