@@ -171,7 +171,7 @@ I trust my way of thinking, I build with intention, and I grow stronger by stayi
 
 # Gratitude Journal
 
-04/05/2026
+## April 5, 2026
 
 Today I focused on finalizing the plan for Bloom-Base, and I took it a step further by creating a clear schedule to follow. This pushed me to think not just about the idea, but about execution—what needs to be done, in what order, and how to stay consistent. I worked through narrowing the scope to a true MVP, identifying the core function and separating it from everything that can come later. Building the schedule made the project feel structured and actionable instead of open-ended.
 
@@ -181,9 +181,9 @@ Daily Affirmation
 
 I follow through on my plans with clarity, discipline, and consistency.
 
-Gratitude Journal
+# Gratitude Journal
 
-04/06/2026
+## April 6, 2026
 
 Today I started executing my Bloom-Base plan and made it halfway through session one before getting pulled into working through GitHub and VS Code issues. I had to understand the sequence—pulling changes, committing properly, and then pushing to the repository. I ran into a problem after merging two separate documents, which disrupted my entries and slowed my progress. Beatrice helped me get through the push and pull process, and that moment clarified how the system actually works.
 
