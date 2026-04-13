@@ -25,7 +25,7 @@ The Pulik site is live. It carries my name, my voice, my dogs, my life. I wrote 
 
 Daily Affirmation
 I am an artist, a caregiver, a woman in motion. I hold tenderness and ambition in the same hands — the same hands that separate cords, that embroider silence into fabric, that apply for jobs and build websites and hold my mother's hand. None of this is contradiction. All of this is me. I am a renaissance woman and today I proved it.
-I am an artist, a caregiver, a woman in motion. I hold tenderness and ambition in the same hands — the same hands that separate cords, that embroider silence into fabric, that apply for jobs and build websites and hold my mother's hand. None of this is contradiction. All of this is me. I am a renaissance woman and today I proved it.
+      #I am an artist, a caregiver, a woman in motion. I hold tenderness and ambition in the same hands — the same hands that separate cords, that embroider silence into fabric, that apply for jobs and build websites and hold my mother's hand. None of this is contradiction. All of this is me. I am a renaissance woman and today I proved it.
 
 Tonight I am grateful for the hackathon because it revealed how much a group experience can teach beyond the surface of the project itself. Sometimes the most important lessons do not come from what gets completed, but from what becomes visible when different working styles, assumptions, and energies meet in one room. There is value in seeing how ideas move, how roles form, and how quickly momentum can shift depending on who is guiding the process and how the group chooses to listen.
 I am also grateful that the experience sharpened something in me. It reminded me that vision, timing, and instinct matter, even when they are not immediately recognized. Not every room knows how to receive initiative, and not every process honors clarity when it first appears. Still, I left with a deeper trust in what I saw, what I contributed, and what I understood beneath the surface. That is its own kind of confirmation.
@@ -55,13 +55,12 @@ I am also grateful for the confidence that grows through repetition and effort. 
 ## March 28, 2026
 
 Yesterday was a reminder that real growth does not always look polished in the moment. Sometimes it looks like confusion, repetition, trial and error, and having to slow down enough to understand what is actually happening. Even so, I am grateful that I stayed with the process. I did not let frustration stop me. I kept moving, kept asking questions, and kept trying to understand the tools in front of me instead of turning away from something unfamiliar.
+
 I am also grateful that I am in a season of learning, even when that learning stretches me. Every new skill asks for patience, humility, and persistence. Yesterday showed me that progress is not only in the final result, but in the willingness to return, try again, and keep building understanding step by step. What feels difficult today may become second nature tomorrow, and that thought gives me confidence.
 Most of all, I am grateful for my own resilience. I am proving to myself that I can keep growing, adapting, and expanding into new spaces. I do not need to know everything at once. I just need to remain open, committed, and willing to continue. That is enough to carry me forward.
+
 Daily Affirmation:
 I trust my ability to learn, grow, and rise to meet what is new.
-Here is a slightly more powerful affirmation too, in case you want it:
-Daily Affirmation:
-I am not behind. I am building strength, skill, and confidence with every step I take.
 
 # Gratitude Journal
 
@@ -192,3 +191,82 @@ What I’m grateful for is that even though I got sidetracked, the time spent wa
 Daily Affirmation
 
 I stay focused, adapt when challenges arise, and keep moving forward with purpose.
+
+
+# Gratitude Journal
+
+April 7, 2026
+Today I am grateful that I pushed through confusion and did not give up. I spent time working through GitHub, VS Code, and the terminal, and even though it was frustrating at moments, I stayed with it until things started to make sense. I realized that learning this is not just about knowing the tools, but understanding how they all connect as one system.
+
+I am also grateful that I was able to correct my mistake with pushing my journal. I had been writing every day, but I misunderstood the difference between committing in GitHub and pushing through VS Code. Fixing that showed me that I am learning, even through small errors.
+
+Daily Affirmation
+I am patient with myself as I learn, and every step forward strengthens my understanding.
+
+
+# Gratitude Journal
+
+## April 8, 2026
+
+Today I am grateful that I am learning how to turn an idea into a system. I spent time thinking through Bloom-Base, narrowing it down, and trying to understand what the project really is at its core. That kind of work may not always look dramatic from the outside, but it matters. It is the difference between having a concept and beginning to build something real.
+
+I am also grateful that I can still think structurally. Even when I feel pressure, I know how to step back, look at the whole, and ask what the real workflow should be. That instinct is one of my strengths, and I can feel it guiding me as I shape this project.
+
+Daily Affirmation
+
+I honor the way my mind builds, refines, and brings order to complexity.
+
+
+# Gratitude Journal
+
+## April 9, 2026
+
+Today I am grateful for clarity. I kept working through Bloom-Base and had to confront the difference between the larger vision and the actual MVP. That was important. It reminded me that discipline is not limitation. It is how something meaningful gets made.
+
+I am also grateful that I can keep learning even when the tools feel unfamiliar. GitHub, VS Code, the terminal, and all the moving pieces can feel like separate worlds, but I am beginning to understand how they connect. That matters to me, because I know I am not just learning commands. I am learning a new language of building.
+
+Daily Affirmation
+
+I give myself permission to learn in layers, and I trust that understanding comes through practice.
+
+
+# Gratitude Journal
+
+## April 10, 2026
+
+Today I am grateful that I stayed with the process even when it was frustrating. I worked through questions about structure, front end, packages, files, and how Bloom-Base should actually function. I had to slow down and be honest about what belongs in the product now and what belongs later. That kind of honesty is part of building with integrity.
+
+I am also grateful that I did not abandon my own thinking. AI may help me refine, format, and sharpen what I mean, but the ideas are mine. The concepts are mine. The way I see systems and imagine what they can become is mine. That is important for me to remember as I move through this work.
+
+Daily Affirmation
+
+My ideas have value, my voice is present in my work, and I am building from a place of vision and strength.
+
+
+Gratitude Journal
+
+April 11th, 2026
+
+Today, I am grateful for the pressure, the friction, and even the parts that felt unfinished, because all of it revealed that I am not standing outside of this work anymore—I am inside it. Presenting my MVP made everything real. What lived in my head as vision, instinct, and possibility had to take form in front of other people. That is a vulnerable thing. But there is something powerful about watching an idea leave the private world of imagination and enter the room, however imperfectly, as something living. Bloom Base is teaching me that building is not magic and it is not elegance from the start—it is revision, discomfort, problem-solving, and staying with the idea long enough for it to begin speaking back.
+
+I am also grateful that I did not turn away from the technical weight of the day. There were moments when the process felt dense, mechanical, and far from the kind of creativity that comes naturally to me, but even there, I could feel myself changing. I am learning how to hold beauty and structure in the same hand. I am learning that vision is not enough; it must be translated, shaped, tested, and defended. Today was not just about showing a presentation. It was about proving to myself that I can keep moving an idea forward, even when I am tired, uncertain, or still learning the language of the tools. That matters. That is growth. And I am grateful that I am still here, still building, still becoming.
+
+Daily Affirmation
+I am learning how to give form to what I see, and each hard step is turning my vision into something real.
+
+
+# Gratitude Journal
+
+## April 12, 2026
+
+Today I am grateful that my thinking expanded beyond just building a project and into understanding the structure behind it. Working through data schemas, legal issues, and ethics made me see more clearly that systems are only as strong as the data underneath them. That felt important.
+
+I am also grateful that I am learning to think in layers. Not just what a tool does, but where the data comes from, who benefits from it, who controls it, and what responsibility comes with using it. That kind of thinking makes me sharper, and I can feel it.
+
+I am grateful that even when the material feels technical, I am still able to understand it, translate it, and make it my own. That gives me confidence. I do not have to know everything at once. I just have to keep building my understanding one piece at a time.
+
+**Daily Affirmation**
+
+I am growing into deeper knowledge, stronger discipline, and a clearer understanding of how to build with purpose.
+
+
