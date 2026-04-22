@@ -110,6 +110,7 @@ Most of all, I am grateful that I am still willing to learn in a serious way. I 
 
 ## Daily Affirmation
 
+
 # Gratitude Journal
 
 April 1, 2026
@@ -122,16 +123,19 @@ What stayed with me today is that building is as much mental discipline as it is
 Daily Affirmation
 I trust myself to build with focus, patience, and clarity
 
+
 # Gratitude Journal
 
 April 2, 2026
 
 Today felt more technical and more real. I continued working on the app and had to deal with the fact that progress does not always look smooth from the outside. There were moments when things seemed connected, but the result still was not right. That forced me to look more closely at the layout, the flow of information, and how the user would actually experience the site. I am beginning to understand that design is not decoration. It is structure, meaning, and usability.
+
 I also spent more time with tools that still feel unfamiliar to me, especially in the terminal and around the logic of how the site is working behind the scenes. That has been uncomfortable, but useful. The discomfort is showing me where I need to grow. I do not know everything yet, but I am not frozen by that in the same way. I am learning to keep moving even when I do not have total mastery.
 The most important thing I felt today is that I am no longer only imagining myself as someone with ideas. I am becoming someone who can stay in the build, work through obstacles, and keep shaping something until it functions. That matters.
 
 Daily Affirmation
 I am capable of learning what I do not yet know.
+
 
 # Gratitude Journal
 
@@ -165,8 +169,8 @@ I am also grateful for the progress I made in understanding how to structure the
 What I am taking from today is that I already have a strong foundation. I am a strategist. I think in systems. I build from structure. I may prefer to work independently, but I can collaborate when it is meaningful, and I am grateful for the collaborations I have experienced. I do not need to change who I am to succeed in this environment—I need to refine what I already bring.
 
 ## Daily Affirmation
-
 I trust my way of thinking, I build with intention, and I grow stronger by staying true to my process.
+
 
 # Gratitude Journal
 
@@ -177,8 +181,8 @@ Today I focused on finalizing the plan for Bloom-Base, and I took it a step furt
 What I’m grateful for is the discipline I’m starting to build. Creating a plan and committing to it shifted my mindset from thinking to doing. It gave me a sense of control over the process and made the work feel manageable. This is where consistency begins, and I can see how this structure will carry me forward as I continue building.
 
 Daily Affirmation
-
 I follow through on my plans with clarity, discipline, and consistency.
+
 
 # Gratitude Journal
 
@@ -189,13 +193,13 @@ Today I started executing my Bloom-Base plan and made it halfway through session
 What I’m grateful for is that even though I got sidetracked, the time spent wasn’t lost—it strengthened my foundation. I can now see that version control is part of the build process, not separate from it. Learning this now will make everything smoother going forward. I stayed engaged, worked through the confusion, and came out with a clearer understanding of both my project and the tools I need to support it.
 
 Daily Affirmation
-
 I stay focused, adapt when challenges arise, and keep moving forward with purpose.
 
 
 # Gratitude Journal
 
 April 7, 2026
+
 Today I am grateful that I pushed through confusion and did not give up. I spent time working through GitHub, VS Code, and the terminal, and even though it was frustrating at moments, I stayed with it until things started to make sense. I realized that learning this is not just about knowing the tools, but understanding how they all connect as one system.
 
 I am also grateful that I was able to correct my mistake with pushing my journal. I had been writing every day, but I misunderstood the difference between committing in GitHub and pushing through VS Code. Fixing that showed me that I am learning, even through small errors.
@@ -213,7 +217,6 @@ Today I am grateful that I am learning how to turn an idea into a system. I spen
 I am also grateful that I can still think structurally. Even when I feel pressure, I know how to step back, look at the whole, and ask what the real workflow should be. That instinct is one of my strengths, and I can feel it guiding me as I shape this project.
 
 Daily Affirmation
-
 I honor the way my mind builds, refines, and brings order to complexity.
 
 
@@ -226,7 +229,6 @@ Today I am grateful for clarity. I kept working through Bloom-Base and had to co
 I am also grateful that I can keep learning even when the tools feel unfamiliar. GitHub, VS Code, the terminal, and all the moving pieces can feel like separate worlds, but I am beginning to understand how they connect. That matters to me, because I know I am not just learning commands. I am learning a new language of building.
 
 Daily Affirmation
-
 I give myself permission to learn in layers, and I trust that understanding comes through practice.
 
 
